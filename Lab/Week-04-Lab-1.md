@@ -170,11 +170,10 @@ idf_component_register(SRCS "main.c"
 
 #### 4.1 จาก `idf.py monitor` 
 
-```
-
-
-```
+<img width="1057" height="342" alt="image" src="https://github.com/user-attachments/assets/c391a053-2114-4f7d-a59f-707eb1aafe16" />
 
 #### 4.2 จากการสังเกตุ LED 
 
+ไฟ LED สว่างไล่ไปทีละดวงระหว่างสีแดง เขียว น้ำเงิน ติดสลับกัน
 
+https://youtube.com/shorts/jW0F265e5ZQ?feature=share
